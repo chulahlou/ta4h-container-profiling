@@ -1,0 +1,2600 @@
+{
+    "1": [
+        {
+            "latency": 28.022908926010132,
+            "throughput": 0.03568508903341673,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 1
+            }
+        },
+        {
+            "latency": 4.178220987319946,
+            "throughput": 0.23933631156293486,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 1
+            }
+        },
+        {
+            "latency": 4.7865729331970215,
+            "throughput": 0.2089177400942861,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 1
+            }
+        },
+        {
+            "latency": 5.319229364395142,
+            "throughput": 0.18799715738779985,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 1
+            }
+        },
+        {
+            "latency": 4.469564914703369,
+            "throughput": 0.22373542371212363,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 1
+            }
+        },
+        {
+            "latency": 4.876189231872559,
+            "throughput": 0.2050781773323385,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 1
+            }
+        },
+        {
+            "latency": 4.033170938491821,
+            "throughput": 0.24794386730703352,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 1
+            }
+        },
+        {
+            "latency": 4.919298887252808,
+            "throughput": 0.20328100058958848,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 1
+            }
+        },
+        {
+            "latency": 6.1380088329315186,
+            "throughput": 0.16291928330810157,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 1
+            }
+        },
+        {
+            "latency": 4.179355144500732,
+            "throughput": 0.2392713625487935,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 1
+            }
+        }
+    ],
+    "2": [
+        {
+            "latency": 7.1980202198028564,
+            "throughput": 0.2778541791946754,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 2
+            }
+        },
+        {
+            "latency": 8.752171039581299,
+            "throughput": 0.22851472976877282,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 2
+            }
+        },
+        {
+            "latency": 7.923313140869141,
+            "throughput": 0.2524196588525355,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 2
+            }
+        },
+        {
+            "latency": 8.931594848632812,
+            "throughput": 0.2239241741138926,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 2
+            }
+        },
+        {
+            "latency": 9.374132871627808,
+            "throughput": 0.21335306714643382,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 2
+            }
+        },
+        {
+            "latency": 8.348610877990723,
+            "throughput": 0.2395608118798015,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 2
+            }
+        },
+        {
+            "latency": 7.831567764282227,
+            "throughput": 0.2553767087506396,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 2
+            }
+        },
+        {
+            "latency": 8.568860054016113,
+            "throughput": 0.23340327504387542,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 2
+            }
+        },
+        {
+            "latency": 7.628296136856079,
+            "throughput": 0.2621817459782413,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 2
+            }
+        },
+        {
+            "latency": 7.73258900642395,
+            "throughput": 0.25864558407778737,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 2
+            }
+        }
+    ],
+    "3": [
+        {
+            "latency": 13.142161130905151,
+            "throughput": 0.22827295831468614,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 3
+            }
+        },
+        {
+            "latency": 11.438966751098633,
+            "throughput": 0.2622614494190982,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 3
+            }
+        },
+        {
+            "latency": 10.514650106430054,
+            "throughput": 0.28531619879252107,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 3
+            }
+        },
+        {
+            "latency": 10.89104700088501,
+            "throughput": 0.2754556104437176,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 3
+            }
+        },
+        {
+            "latency": 10.468632221221924,
+            "throughput": 0.2865703882421645,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 3
+            }
+        },
+        {
+            "latency": 10.87087082862854,
+            "throughput": 0.27596685190108894,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 3
+            }
+        },
+        {
+            "latency": 12.569469928741455,
+            "throughput": 0.23867354924332768,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 3
+            }
+        },
+        {
+            "latency": 10.919529914855957,
+            "throughput": 0.2747371016327834,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 3
+            }
+        },
+        {
+            "latency": 11.254335165023804,
+            "throughput": 0.26656394678233797,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 3
+            }
+        },
+        {
+            "latency": 11.915504693984985,
+            "throughput": 0.25177280166021143,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 3
+            }
+        }
+    ],
+    "4": [
+        {
+            "latency": 15.050199031829834,
+            "throughput": 0.2657772160713859,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 4
+            }
+        },
+        {
+            "latency": 14.32963228225708,
+            "throughput": 0.2791418454577366,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 4
+            }
+        },
+        {
+            "latency": 13.417557954788208,
+            "throughput": 0.2981168416397676,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 4
+            }
+        },
+        {
+            "latency": 15.832939863204956,
+            "throughput": 0.2526378571863221,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 4
+            }
+        },
+        {
+            "latency": 17.540041208267212,
+            "throughput": 0.2280496352605298,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 4
+            }
+        },
+        {
+            "latency": 13.620459079742432,
+            "throughput": 0.2936758575156368,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 4
+            }
+        },
+        {
+            "latency": 14.569556951522827,
+            "throughput": 0.27454506772643594,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 4
+            }
+        },
+        {
+            "latency": 14.88487696647644,
+            "throughput": 0.2687291274901873,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 4
+            }
+        },
+        {
+            "latency": 15.810403823852539,
+            "throughput": 0.25299796542611747,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 4
+            }
+        },
+        {
+            "latency": 14.89674186706543,
+            "throughput": 0.26851509113166744,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 4
+            }
+        }
+    ],
+    "5": [
+        {
+            "latency": 17.052706241607666,
+            "throughput": 0.2932085927687111,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 5
+            }
+        },
+        {
+            "latency": 18.462623119354248,
+            "throughput": 0.2708174221873452,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 5
+            }
+        },
+        {
+            "latency": 20.968688011169434,
+            "throughput": 0.23845077943534854,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 5
+            }
+        },
+        {
+            "latency": 18.359932899475098,
+            "throughput": 0.272332149979859,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 5
+            }
+        },
+        {
+            "latency": 18.61290216445923,
+            "throughput": 0.2686308645380057,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 5
+            }
+        },
+        {
+            "latency": 18.590035915374756,
+            "throughput": 0.26896128779744777,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 5
+            }
+        },
+        {
+            "latency": 20.201258897781372,
+            "throughput": 0.2475093272800504,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 5
+            }
+        },
+        {
+            "latency": 17.718142986297607,
+            "throughput": 0.28219661642118865,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 5
+            }
+        },
+        {
+            "latency": 19.060457944869995,
+            "throughput": 0.2623231831292762,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 5
+            }
+        },
+        {
+            "latency": 20.753414154052734,
+            "throughput": 0.24092421434299754,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 5
+            }
+        }
+    ],
+    "6": [
+        {
+            "latency": 21.06242084503174,
+            "throughput": 0.28486753940325416,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 6
+            }
+        },
+        {
+            "latency": 22.928847789764404,
+            "throughput": 0.2616790889369697,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 6
+            }
+        },
+        {
+            "latency": 21.86001706123352,
+            "throughput": 0.27447371075662974,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 6
+            }
+        },
+        {
+            "latency": 22.17484211921692,
+            "throughput": 0.2705768982589664,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 6
+            }
+        },
+        {
+            "latency": 19.97831702232361,
+            "throughput": 0.30032559766148714,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 6
+            }
+        },
+        {
+            "latency": 21.370559215545654,
+            "throughput": 0.28076008397737207,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 6
+            }
+        },
+        {
+            "latency": 23.813902854919434,
+            "throughput": 0.2519536607062513,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 6
+            }
+        },
+        {
+            "latency": 21.793307304382324,
+            "throughput": 0.27531388036700083,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 6
+            }
+        },
+        {
+            "latency": 21.376033782958984,
+            "throughput": 0.28068817915057803,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 6
+            }
+        },
+        {
+            "latency": 23.984613180160522,
+            "throughput": 0.2501603821971601,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 6
+            }
+        }
+    ],
+    "7": [
+        {
+            "latency": 27.896082878112793,
+            "throughput": 0.25093128775768675,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 7
+            }
+        },
+        {
+            "latency": 25.004714012145996,
+            "throughput": 0.2799472130175039,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 7
+            }
+        },
+        {
+            "latency": 25.26934504508972,
+            "throughput": 0.2770154900140644,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 7
+            }
+        },
+        {
+            "latency": 25.209300994873047,
+            "throughput": 0.2776752914102469,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 7
+            }
+        },
+        {
+            "latency": 25.253891706466675,
+            "throughput": 0.2771850010827256,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 7
+            }
+        },
+        {
+            "latency": 25.0557861328125,
+            "throughput": 0.2793765864257979,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 7
+            }
+        },
+        {
+            "latency": 26.10883378982544,
+            "throughput": 0.26810848988314007,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 7
+            }
+        },
+        {
+            "latency": 25.655143976211548,
+            "throughput": 0.27284976480703726,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 7
+            }
+        },
+        {
+            "latency": 25.968929052352905,
+            "throughput": 0.26955289476466754,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 7
+            }
+        },
+        {
+            "latency": 28.228492975234985,
+            "throughput": 0.2479763976823396,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 7
+            }
+        }
+    ],
+    "8": [
+        {
+            "latency": 29.361703872680664,
+            "throughput": 0.27246375192290967,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 8
+            }
+        },
+        {
+            "latency": 29.769257068634033,
+            "throughput": 0.2687336127185078,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 8
+            }
+        },
+        {
+            "latency": 29.589061975479126,
+            "throughput": 0.2703701795829051,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 8
+            }
+        },
+        {
+            "latency": 28.913750886917114,
+            "throughput": 0.276684959737266,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 8
+            }
+        },
+        {
+            "latency": 28.335328102111816,
+            "throughput": 0.282333063911258,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 8
+            }
+        },
+        {
+            "latency": 30.93704915046692,
+            "throughput": 0.25858962699030585,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 8
+            }
+        },
+        {
+            "latency": 29.382686138153076,
+            "throughput": 0.2722691847295776,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 8
+            }
+        },
+        {
+            "latency": 29.83379817008972,
+            "throughput": 0.2681522464685877,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 8
+            }
+        },
+        {
+            "latency": 29.832508087158203,
+            "throughput": 0.26816384249783226,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 8
+            }
+        },
+        {
+            "latency": 29.726946115493774,
+            "throughput": 0.26911610660976626,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 8
+            }
+        }
+    ],
+    "9": [
+        {
+            "latency": 33.548556089401245,
+            "throughput": 0.2682678794287455,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 9
+            }
+        },
+        {
+            "latency": 33.21623396873474,
+            "throughput": 0.27095184867951555,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 9
+            }
+        },
+        {
+            "latency": 33.46269416809082,
+            "throughput": 0.2689562279352322,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 9
+            }
+        },
+        {
+            "latency": 35.33801317214966,
+            "throughput": 0.25468324877678794,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 9
+            }
+        },
+        {
+            "latency": 34.37191390991211,
+            "throughput": 0.26184168922303147,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 9
+            }
+        },
+        {
+            "latency": 33.14262914657593,
+            "throughput": 0.2715535922088975,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 9
+            }
+        },
+        {
+            "latency": 32.55756902694702,
+            "throughput": 0.2764334153004772,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 9
+            }
+        },
+        {
+            "latency": 32.7855269908905,
+            "throughput": 0.27451137212162735,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 9
+            }
+        },
+        {
+            "latency": 41.14708209037781,
+            "throughput": 0.21872753893537056,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 9
+            }
+        },
+        {
+            "latency": 34.08430790901184,
+            "throughput": 0.26405112945304704,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 9
+            }
+        }
+    ],
+    "10": [
+        {
+            "latency": 37.89087510108948,
+            "throughput": 0.2639157837690708,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 10
+            }
+        },
+        {
+            "latency": 37.809898376464844,
+            "throughput": 0.26448100707471356,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 10
+            }
+        },
+        {
+            "latency": 38.504477739334106,
+            "throughput": 0.25971005418376414,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 10
+            }
+        },
+        {
+            "latency": 38.25456118583679,
+            "throughput": 0.2614067366090284,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 10
+            }
+        },
+        {
+            "latency": 37.29528212547302,
+            "throughput": 0.2681304291078122,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 10
+            }
+        },
+        {
+            "latency": 38.958221673965454,
+            "throughput": 0.25668522766999613,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 10
+            }
+        },
+        {
+            "latency": 36.87994718551636,
+            "throughput": 0.2711500629243645,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 10
+            }
+        },
+        {
+            "latency": 36.52915716171265,
+            "throughput": 0.27375392089476713,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 10
+            }
+        },
+        {
+            "latency": 40.220686197280884,
+            "throughput": 0.24862827926282494,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 10
+            }
+        },
+        {
+            "latency": 37.36857581138611,
+            "throughput": 0.2676045255370162,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 10
+            }
+        }
+    ],
+    "11": [
+        {
+            "latency": 43.24020004272461,
+            "throughput": 0.2543929026491821,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 11
+            }
+        },
+        {
+            "latency": 44.417815923690796,
+            "throughput": 0.24764837647348195,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 11
+            }
+        },
+        {
+            "latency": 41.232714891433716,
+            "throughput": 0.2667784556259064,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 11
+            }
+        },
+        {
+            "latency": 44.80656886100769,
+            "throughput": 0.24549971755531141,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 11
+            }
+        },
+        {
+            "latency": 42.78424906730652,
+            "throughput": 0.2571039632528136,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 11
+            }
+        },
+        {
+            "latency": 42.94288086891174,
+            "throughput": 0.2561542164248088,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 11
+            }
+        },
+        {
+            "latency": 43.06701707839966,
+            "throughput": 0.25541587846623975,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 11
+            }
+        },
+        {
+            "latency": 41.95051383972168,
+            "throughput": 0.26221371309126684,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 11
+            }
+        },
+        {
+            "latency": 42.14322113990784,
+            "throughput": 0.26101469471168326,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 11
+            }
+        },
+        {
+            "latency": 41.12130808830261,
+            "throughput": 0.26750121801521837,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 11
+            }
+        }
+    ],
+    "12": [
+        {
+            "latency": 45.48417925834656,
+            "throughput": 0.2638279990024871,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 12
+            }
+        },
+        {
+            "latency": 46.0812668800354,
+            "throughput": 0.2604095072134176,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 12
+            }
+        },
+        {
+            "latency": 46.844098806381226,
+            "throughput": 0.25616887304416086,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 12
+            }
+        },
+        {
+            "latency": 45.18950295448303,
+            "throughput": 0.2655483954334917,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 12
+            }
+        },
+        {
+            "latency": 47.68797707557678,
+            "throughput": 0.2516357525709715,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 12
+            }
+        },
+        {
+            "latency": 45.41725015640259,
+            "throughput": 0.2642167889662146,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 12
+            }
+        },
+        {
+            "latency": 44.41781306266785,
+            "throughput": 0.2701618826453598,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 12
+            }
+        },
+        {
+            "latency": 45.40488290786743,
+            "throughput": 0.26428875555850684,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 12
+            }
+        },
+        {
+            "latency": 43.46580410003662,
+            "throughput": 0.27607909823506266,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 12
+            }
+        },
+        {
+            "latency": 45.94114375114441,
+            "throughput": 0.26120377117735727,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 12
+            }
+        }
+    ],
+    "13": [
+        {
+            "latency": 49.555333852767944,
+            "throughput": 0.262333012196504,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 13
+            }
+        },
+        {
+            "latency": 50.135013818740845,
+            "throughput": 0.2592998188252319,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 13
+            }
+        },
+        {
+            "latency": 51.3391227722168,
+            "throughput": 0.2532181949753768,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 13
+            }
+        },
+        {
+            "latency": 51.0486421585083,
+            "throughput": 0.2546590751549164,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 13
+            }
+        },
+        {
+            "latency": 49.71188926696777,
+            "throughput": 0.2615068586547998,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 13
+            }
+        },
+        {
+            "latency": 49.45113015174866,
+            "throughput": 0.26288580180285936,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 13
+            }
+        },
+        {
+            "latency": 48.93599796295166,
+            "throughput": 0.26565310898210365,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 13
+            }
+        },
+        {
+            "latency": 49.342703104019165,
+            "throughput": 0.2634634744795953,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 13
+            }
+        },
+        {
+            "latency": 47.37109613418579,
+            "throughput": 0.2744289463595171,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 13
+            }
+        }
+    ],
+    "14": [
+        {
+            "latency": 54.90762519836426,
+            "throughput": 0.25497369353386407,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 14
+            }
+        },
+        {
+            "latency": 54.25152373313904,
+            "throughput": 0.25805726801085643,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 14
+            }
+        },
+        {
+            "latency": 55.309311866760254,
+            "throughput": 0.25312193421834467,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 14
+            }
+        },
+        {
+            "latency": 50.075467109680176,
+            "throughput": 0.2795780210963551,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 14
+            }
+        },
+        {
+            "latency": 55.64814019203186,
+            "throughput": 0.25158073480422677,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 14
+            }
+        },
+        {
+            "latency": 61.89889907836914,
+            "throughput": 0.22617526657905238,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 14
+            }
+        },
+        {
+            "latency": 55.03346824645996,
+            "throughput": 0.25439065437967473,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 14
+            }
+        },
+        {
+            "latency": 56.80936074256897,
+            "throughput": 0.2464382597692105,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 14
+            }
+        },
+        {
+            "latency": 52.55750489234924,
+            "throughput": 0.266374897908024,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 14
+            }
+        }
+    ],
+    "15": [
+        {
+            "latency": 62.6260302066803,
+            "throughput": 0.23951701793162605,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 15
+            }
+        },
+        {
+            "latency": 59.88948035240173,
+            "throughput": 0.2504613483325784,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 15
+            }
+        },
+        {
+            "latency": 58.08618497848511,
+            "throughput": 0.2582369629810589,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 15
+            }
+        },
+        {
+            "latency": 58.7772581577301,
+            "throughput": 0.25520074379358015,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 15
+            }
+        },
+        {
+            "latency": 58.80036497116089,
+            "throughput": 0.25510045740969245,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 15
+            }
+        },
+        {
+            "latency": 63.8354868888855,
+            "throughput": 0.23497901764436413,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 15
+            }
+        },
+        {
+            "latency": 57.47147083282471,
+            "throughput": 0.2609990623631783,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 15
+            }
+        },
+        {
+            "latency": 58.18211007118225,
+            "throughput": 0.2578112066002491,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 15
+            }
+        },
+        {
+            "latency": 56.38701319694519,
+            "throughput": 0.2660187009304589,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 15
+            }
+        }
+    ],
+    "16": [
+        {
+            "latency": 64.27558207511902,
+            "throughput": 0.2489281229892366,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 16
+            }
+        },
+        {
+            "latency": 62.88257813453674,
+            "throughput": 0.25444249384572204,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 16
+            }
+        },
+        {
+            "latency": 62.869417905807495,
+            "throughput": 0.2544957553761925,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 16
+            }
+        },
+        {
+            "latency": 61.43453598022461,
+            "throughput": 0.2604398282612617,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 16
+            }
+        },
+        {
+            "latency": 61.51647090911865,
+            "throughput": 0.2600929436221658,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 16
+            }
+        },
+        {
+            "latency": 77.17537903785706,
+            "throughput": 0.20732000541456977,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 16
+            }
+        },
+        {
+            "latency": 61.34076523780823,
+            "throughput": 0.26083795886749356,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 16
+            }
+        },
+        {
+            "latency": 63.546059131622314,
+            "throughput": 0.2517858734065532,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 16
+            }
+        },
+        {
+            "latency": 66.97784399986267,
+            "throughput": 0.2388849661991629,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 16
+            }
+        }
+    ],
+    "17": [
+        {
+            "latency": 68.59283089637756,
+            "throughput": 0.24783931174500895,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 17
+            }
+        },
+        {
+            "latency": 68.57135725021362,
+            "throughput": 0.24791692452532052,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 17
+            }
+        },
+        {
+            "latency": 66.58848595619202,
+            "throughput": 0.25529939231812765,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 17
+            }
+        },
+        {
+            "latency": 72.26243996620178,
+            "throughput": 0.23525361180650906,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 17
+            }
+        },
+        {
+            "latency": 63.02694296836853,
+            "throughput": 0.2697259171927762,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 17
+            }
+        },
+        {
+            "latency": 68.04192614555359,
+            "throughput": 0.24984595473728985,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 17
+            }
+        },
+        {
+            "latency": 66.64650011062622,
+            "throughput": 0.255077160417753,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 17
+            }
+        },
+        {
+            "latency": 65.31438112258911,
+            "throughput": 0.2602795847991357,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 17
+            }
+        },
+        {
+            "latency": 66.7728419303894,
+            "throughput": 0.2545945253868703,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 17
+            }
+        }
+    ],
+    "18": [
+        {
+            "latency": 74.46890902519226,
+            "throughput": 0.2417116114043075,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 18
+            }
+        },
+        {
+            "latency": 79.99154281616211,
+            "throughput": 0.22502378834432407,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 18
+            }
+        },
+        {
+            "latency": 70.81597590446472,
+            "throughput": 0.2541799328485305,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 18
+            }
+        },
+        {
+            "latency": 71.10893225669861,
+            "throughput": 0.2531327560231276,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 18
+            }
+        },
+        {
+            "latency": 69.21418809890747,
+            "throughput": 0.26006228627977107,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 18
+            }
+        },
+        {
+            "latency": 69.22535800933838,
+            "throughput": 0.2600203237312522,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 18
+            }
+        },
+        {
+            "latency": 70.56962299346924,
+            "throughput": 0.2550672546694175,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 18
+            }
+        },
+        {
+            "latency": 82.54372215270996,
+            "throughput": 0.2180662505950375,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 18
+            }
+        },
+        {
+            "latency": 67.36668229103088,
+            "throughput": 0.2671943962185666,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 18
+            }
+        }
+    ],
+    "19": [
+        {
+            "latency": 78.70549869537354,
+            "throughput": 0.24140625896468473,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 19
+            }
+        },
+        {
+            "latency": 76.57073998451233,
+            "throughput": 0.24813655978567084,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 19
+            }
+        },
+        {
+            "latency": 78.52093887329102,
+            "throughput": 0.24197367317092627,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 19
+            }
+        },
+        {
+            "latency": 72.76324200630188,
+            "throughput": 0.26112085547747377,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 19
+            }
+        },
+        {
+            "latency": 74.56403088569641,
+            "throughput": 0.2548145503175146,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 19
+            }
+        },
+        {
+            "latency": 72.42597389221191,
+            "throughput": 0.2623368244695858,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 19
+            }
+        },
+        {
+            "latency": 73.68257999420166,
+            "throughput": 0.2578628490139077,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 19
+            }
+        },
+        {
+            "latency": 79.5032570362091,
+            "throughput": 0.23898391975748373,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 19
+            }
+        },
+        {
+            "latency": 69.90987801551819,
+            "throughput": 0.27177847450659964,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 19
+            }
+        }
+    ],
+    "20": [
+        {
+            "latency": 82.81180310249329,
+            "throughput": 0.24151146636967555,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 20
+            }
+        },
+        {
+            "latency": 82.8370349407196,
+            "throughput": 0.24143790291760847,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 20
+            }
+        },
+        {
+            "latency": 77.8749041557312,
+            "throughput": 0.2568221459381161,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 20
+            }
+        },
+        {
+            "latency": 85.96772980690002,
+            "throughput": 0.2326454361994184,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 20
+            }
+        },
+        {
+            "latency": 73.16250705718994,
+            "throughput": 0.27336406042464245,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 20
+            }
+        },
+        {
+            "latency": 73.6099750995636,
+            "throughput": 0.2717023062831952,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 20
+            }
+        },
+        {
+            "latency": 78.43324017524719,
+            "throughput": 0.25499392802481485,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 20
+            }
+        },
+        {
+            "latency": 78.40345692634583,
+            "throughput": 0.25509079298363724,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 20
+            }
+        },
+        {
+            "latency": 78.11076593399048,
+            "throughput": 0.25604665068707066,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 20
+            }
+        }
+    ],
+    "21": [
+        {
+            "latency": 85.43774628639221,
+            "throughput": 0.24579300031635665,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 21
+            }
+        },
+        {
+            "latency": 87.5189859867096,
+            "throughput": 0.23994793544784676,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 21
+            }
+        },
+        {
+            "latency": 81.20320105552673,
+            "throughput": 0.2586104947468783,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 21
+            }
+        },
+        {
+            "latency": 96.32260823249817,
+            "throughput": 0.2180173521600595,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 21
+            }
+        },
+        {
+            "latency": 83.06797480583191,
+            "throughput": 0.25280500757465996,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 21
+            }
+        },
+        {
+            "latency": 81.48010587692261,
+            "throughput": 0.2577316238606874,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 21
+            }
+        },
+        {
+            "latency": 90.7364411354065,
+            "throughput": 0.2314395378220927,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 21
+            }
+        },
+        {
+            "latency": 80.89623498916626,
+            "throughput": 0.2595918092209403,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 21
+            }
+        },
+        {
+            "latency": 81.604079246521,
+            "throughput": 0.25734007654887286,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 21
+            }
+        }
+    ],
+    "22": [
+        {
+            "latency": 90.70813226699829,
+            "throughput": 0.2425361370603825,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 22
+            }
+        },
+        {
+            "latency": 89.54223203659058,
+            "throughput": 0.24569412108255143,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 22
+            }
+        },
+        {
+            "latency": 85.83187508583069,
+            "throughput": 0.2563150342224296,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 22
+            }
+        },
+        {
+            "latency": 85.19801306724548,
+            "throughput": 0.2582219843863699,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 22
+            }
+        },
+        {
+            "latency": 91.91803002357483,
+            "throughput": 0.2393436847412582,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 22
+            }
+        },
+        {
+            "latency": 85.41462969779968,
+            "throughput": 0.2575671179262483,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 22
+            }
+        },
+        {
+            "latency": 82.13424801826477,
+            "throughput": 0.26785415987625166,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 22
+            }
+        },
+        {
+            "latency": 91.56726408004761,
+            "throughput": 0.24026053656869903,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 22
+            }
+        },
+        {
+            "latency": 82.47101616859436,
+            "throughput": 0.26676038470322355,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 22
+            }
+        }
+    ],
+    "23": [
+        {
+            "latency": 99.09217929840088,
+            "throughput": 0.23210711645304552,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 23
+            }
+        },
+        {
+            "latency": 93.42115092277527,
+            "throughput": 0.2461969240671472,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 23
+            }
+        },
+        {
+            "latency": 95.37940216064453,
+            "throughput": 0.24114221182957116,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 23
+            }
+        },
+        {
+            "latency": 90.43499493598938,
+            "throughput": 0.25432632595688853,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 23
+            }
+        },
+        {
+            "latency": 111.11333990097046,
+            "throughput": 0.2069958478477805,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 23
+            }
+        },
+        {
+            "latency": 87.63702201843262,
+            "throughput": 0.2624461611117095,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 23
+            }
+        },
+        {
+            "latency": 92.26268482208252,
+            "throughput": 0.24928821488722913,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 23
+            }
+        },
+        {
+            "latency": 88.35300207138062,
+            "throughput": 0.2603193944832598,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 23
+            }
+        },
+        {
+            "latency": 95.89042711257935,
+            "throughput": 0.23985710245087388,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 23
+            }
+        }
+    ],
+    "24": [
+        {
+            "latency": 99.6948459148407,
+            "throughput": 0.24073461150138886,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 24
+            }
+        },
+        {
+            "latency": 96.54287719726562,
+            "throughput": 0.2485942070170636,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 24
+            }
+        },
+        {
+            "latency": 94.48418998718262,
+            "throughput": 0.2540107504044407,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 24
+            }
+        },
+        {
+            "latency": 94.8418538570404,
+            "throughput": 0.253052835050824,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 24
+            }
+        },
+        {
+            "latency": 100.85863709449768,
+            "throughput": 0.23795681452163223,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 24
+            }
+        },
+        {
+            "latency": 97.61586403846741,
+            "throughput": 0.24586167664860642,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 24
+            }
+        },
+        {
+            "latency": 93.87109208106995,
+            "throughput": 0.25566976443901246,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 24
+            }
+        },
+        {
+            "latency": 94.07559037208557,
+            "throughput": 0.2551139982760221,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 24
+            }
+        },
+        {
+            "latency": 94.82331800460815,
+            "throughput": 0.25310230125920785,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 24
+            }
+        }
+    ],
+    "25": [
+        {
+            "latency": 103.47695732116699,
+            "throughput": 0.24159968216311345,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 25
+            }
+        },
+        {
+            "latency": 104.98757696151733,
+            "throughput": 0.2381234115838641,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 25
+            }
+        },
+        {
+            "latency": 99.05198097229004,
+            "throughput": 0.25239273111553207,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 25
+            }
+        },
+        {
+            "latency": 101.22609400749207,
+            "throughput": 0.24697189242676568,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 25
+            }
+        },
+        {
+            "latency": 96.98974108695984,
+            "throughput": 0.25775921989095013,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 25
+            }
+        },
+        {
+            "latency": 105.95113396644592,
+            "throughput": 0.235957833239589,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 25
+            }
+        },
+        {
+            "latency": 101.26298475265503,
+            "throughput": 0.24688191900589343,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 25
+            }
+        },
+        {
+            "latency": 105.92459011077881,
+            "throughput": 0.23601696238667833,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 25
+            }
+        },
+        {
+            "latency": 101.82923173904419,
+            "throughput": 0.24550907016628604,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 25
+            }
+        }
+    ],
+    "30": [
+        {
+            "latency": 134.174387216568,
+            "throughput": 0.2235896181256833,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 30
+            }
+        },
+        {
+            "latency": 122.71455001831055,
+            "throughput": 0.24446978777596973,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 30
+            }
+        },
+        {
+            "latency": 120.072340965271,
+            "throughput": 0.24984938045537913,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 30
+            }
+        },
+        {
+            "latency": 123.03975009918213,
+            "throughput": 0.24382364216293556,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 30
+            }
+        },
+        {
+            "latency": 120.90175676345825,
+            "throughput": 0.24813535223226219,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 30
+            }
+        },
+        {
+            "latency": 121.23740482330322,
+            "throughput": 0.24744838479282308,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 30
+            }
+        },
+        {
+            "latency": 131.05813312530518,
+            "throughput": 0.22890605324979632,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 30
+            }
+        },
+        {
+            "latency": 121.96388697624207,
+            "throughput": 0.24597444984550096,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 30
+            }
+        },
+        {
+            "latency": 118.10052108764648,
+            "throughput": 0.2540208944356474,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 30
+            }
+        }
+    ],
+    "35": [
+        {
+            "latency": 152.32481002807617,
+            "throughput": 0.22977215591832267,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 35
+            }
+        },
+        {
+            "latency": 146.33893609046936,
+            "throughput": 0.23917079715792364,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 35
+            }
+        },
+        {
+            "latency": 145.94158911705017,
+            "throughput": 0.23982197406339598,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 35
+            }
+        },
+        {
+            "latency": 147.72394108772278,
+            "throughput": 0.23692842028372355,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 35
+            }
+        },
+        {
+            "latency": 149.66718697547913,
+            "throughput": 0.23385219370585392,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 35
+            }
+        },
+        {
+            "latency": 141.24371194839478,
+            "throughput": 0.24779864191609255,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 35
+            }
+        },
+        {
+            "latency": 154.52509021759033,
+            "throughput": 0.22650043401182096,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 35
+            }
+        },
+        {
+            "latency": 140.55305218696594,
+            "throughput": 0.24901629281904483,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 35
+            }
+        },
+        {
+            "latency": 145.750990152359,
+            "throughput": 0.24013558990860495,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 35
+            }
+        }
+    ],
+    "40": [
+        {
+            "latency": 174.1785068511963,
+            "throughput": 0.22964945975896264,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 40
+            }
+        },
+        {
+            "latency": 168.55165696144104,
+            "throughput": 0.23731597019630996,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 40
+            }
+        },
+        {
+            "latency": 168.16771602630615,
+            "throughput": 0.23785778236854258,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 40
+            }
+        },
+        {
+            "latency": 163.6255898475647,
+            "throughput": 0.2444605396824813,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 40
+            }
+        },
+        {
+            "latency": 167.25024700164795,
+            "throughput": 0.23916257654080397,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 40
+            }
+        },
+        {
+            "latency": 162.0449230670929,
+            "throughput": 0.24684512938081032,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 40
+            }
+        },
+        {
+            "latency": 174.29513883590698,
+            "throughput": 0.22949578667055456,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 40
+            }
+        },
+        {
+            "latency": 166.38079524040222,
+            "throughput": 0.2404123621491551,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 40
+            }
+        },
+        {
+            "latency": 166.37012672424316,
+            "throughput": 0.2404277786378056,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 40
+            }
+        }
+    ],
+    "45": [
+        {
+            "latency": 198.57991790771484,
+            "throughput": 0.22660901703521022,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 45
+            }
+        },
+        {
+            "latency": 194.02273797988892,
+            "throughput": 0.23193157909494297,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 45
+            }
+        },
+        {
+            "latency": 189.38588285446167,
+            "throughput": 0.23761010758431966,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 45
+            }
+        },
+        {
+            "latency": 197.43407893180847,
+            "throughput": 0.22792417724167316,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 45
+            }
+        },
+        {
+            "latency": 187.03906273841858,
+            "throughput": 0.2405914536843796,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 45
+            }
+        },
+        {
+            "latency": 195.21404695510864,
+            "throughput": 0.23051619851079766,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 45
+            }
+        },
+        {
+            "latency": 189.95161175727844,
+            "throughput": 0.23690243838257782,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 45
+            }
+        },
+        {
+            "latency": 189.1682093143463,
+            "throughput": 0.23788352262309673,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 45
+            }
+        },
+        {
+            "latency": 193.76533102989197,
+            "throughput": 0.23223968787820923,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 45
+            }
+        }
+    ],
+    "50": [
+        {
+            "latency": 217.1753580570221,
+            "throughput": 0.23022869835385226,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 50
+            }
+        },
+        {
+            "latency": 212.4090702533722,
+            "throughput": 0.23539484420489903,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 50
+            }
+        },
+        {
+            "latency": 216.3626959323883,
+            "throughput": 0.231093441429592,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 50
+            }
+        },
+        {
+            "latency": 214.85732078552246,
+            "throughput": 0.23271257324255487,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 50
+            }
+        },
+        {
+            "latency": 215.19287109375,
+            "throughput": 0.23234970445752925,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 50
+            }
+        },
+        {
+            "latency": 209.9980239868164,
+            "throughput": 0.2380974784940785,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 50
+            }
+        },
+        {
+            "latency": 218.69397115707397,
+            "throughput": 0.22862998799399084,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 50
+            }
+        },
+        {
+            "latency": 218.8308436870575,
+            "throughput": 0.2284869863752081,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 50
+            }
+        },
+        {
+            "latency": 219.99525094032288,
+            "throughput": 0.2272776334320202,
+            "success": true,
+            "success_rate": 1.0,
+            "statuses": {
+                "200": 50
+            }
+        }
+    ]
+}
